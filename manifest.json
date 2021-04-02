@@ -1,0 +1,9 @@
+{
+    "chrome_url_overrides": {
+        "newtab": "newtab.html"
+     },
+    "content_security_policy": "script-src 'unsafe-eval' 'self'; object-src 'self'",
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "Motivation"
+}
